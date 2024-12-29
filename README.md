@@ -4,5 +4,6 @@ A visualization was also created corresponding to the findings and the predictio
 
 Link to the notebook:
 [Open in Google Colab](https://colab.research.google.com/drive/1HBiwhD4MLgYbIzsIFX5AgGtbWfIgOp3H#scrollTo=X-SqJs_-905F)
+
 Link to the Tableau Dashboard:
 https://public.tableau.com/app/profile/prachurya.phukan/viz/StarbucksLocations_17182016725740/Dashboard1
